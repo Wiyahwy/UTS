@@ -1,0 +1,9 @@
+*{
+    font-family: montserrat;
+}
+body{
+    background: rgb(182, 200, 228);
+}
+.section-padding{
+    padding: 100px; 
+}
